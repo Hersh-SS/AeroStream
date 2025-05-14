@@ -1,0 +1,1261 @@
+counter_id,date,time_slot,airline,occupancy_status
+A1,2023-07-01,05:00,Delta,Occupied
+A2,2023-07-01,05:00,Porter,Vacant
+A3,2023-07-01,05:00,WestJet,Vacant
+A4,2023-07-01,05:00,United,Occupied
+A5,2023-07-01,05:00,WestJet,Occupied
+A6,2023-07-01,05:00,American,Vacant
+A7,2023-07-01,05:00,Delta,Vacant
+A8,2023-07-01,05:00,American,Vacant
+A9,2023-07-01,05:00,American,Occupied
+A10,2023-07-01,05:00,Delta,Occupied
+A1,2023-07-01,06:00,Air Canada,Vacant
+A2,2023-07-01,06:00,WestJet,Occupied
+A3,2023-07-01,06:00,American,Occupied
+A4,2023-07-01,06:00,WestJet,Occupied
+A5,2023-07-01,06:00,American,Vacant
+A6,2023-07-01,06:00,WestJet,Occupied
+A7,2023-07-01,06:00,United,Vacant
+A8,2023-07-01,06:00,Porter,Occupied
+A9,2023-07-01,06:00,Air Canada,Occupied
+A10,2023-07-01,06:00,WestJet,Occupied
+A1,2023-07-01,07:00,Porter,Vacant
+A2,2023-07-01,07:00,Air Canada,Occupied
+A3,2023-07-01,07:00,Delta,Occupied
+A4,2023-07-01,07:00,WestJet,Occupied
+A5,2023-07-01,07:00,United,Vacant
+A6,2023-07-01,07:00,United,Vacant
+A7,2023-07-01,07:00,Delta,Occupied
+A8,2023-07-01,07:00,Delta,Vacant
+A9,2023-07-01,07:00,United,Occupied
+A10,2023-07-01,07:00,American,Occupied
+A1,2023-07-01,08:00,Porter,Occupied
+A2,2023-07-01,08:00,Porter,Occupied
+A3,2023-07-01,08:00,WestJet,Vacant
+A4,2023-07-01,08:00,Porter,Vacant
+A5,2023-07-01,08:00,Delta,Occupied
+A6,2023-07-01,08:00,Porter,Occupied
+A7,2023-07-01,08:00,WestJet,Occupied
+A8,2023-07-01,08:00,Air Canada,Occupied
+A9,2023-07-01,08:00,Air Canada,Vacant
+A10,2023-07-01,08:00,Delta,Occupied
+A1,2023-07-01,09:00,United,Occupied
+A2,2023-07-01,09:00,Air Canada,Occupied
+A3,2023-07-01,09:00,Delta,Occupied
+A4,2023-07-01,09:00,United,Occupied
+A5,2023-07-01,09:00,United,Occupied
+A6,2023-07-01,09:00,Porter,Occupied
+A7,2023-07-01,09:00,United,Occupied
+A8,2023-07-01,09:00,United,Vacant
+A9,2023-07-01,09:00,Porter,Vacant
+A10,2023-07-01,09:00,WestJet,Occupied
+A1,2023-07-01,10:00,American,Occupied
+A2,2023-07-01,10:00,Porter,Occupied
+A3,2023-07-01,10:00,WestJet,Occupied
+A4,2023-07-01,10:00,United,Occupied
+A5,2023-07-01,10:00,Delta,Occupied
+A6,2023-07-01,10:00,Porter,Occupied
+A7,2023-07-01,10:00,Delta,Occupied
+A8,2023-07-01,10:00,Delta,Vacant
+A9,2023-07-01,10:00,Porter,Occupied
+A10,2023-07-01,10:00,Air Canada,Occupied
+A1,2023-07-01,11:00,Air Canada,Occupied
+A2,2023-07-01,11:00,Porter,Occupied
+A3,2023-07-01,11:00,WestJet,Occupied
+A4,2023-07-01,11:00,Delta,Occupied
+A5,2023-07-01,11:00,American,Occupied
+A6,2023-07-01,11:00,WestJet,Occupied
+A7,2023-07-01,11:00,Air Canada,Occupied
+A8,2023-07-01,11:00,American,Vacant
+A9,2023-07-01,11:00,WestJet,Vacant
+A10,2023-07-01,11:00,Air Canada,Occupied
+A1,2023-07-01,12:00,WestJet,Occupied
+A2,2023-07-01,12:00,United,Occupied
+A3,2023-07-01,12:00,Delta,Occupied
+A4,2023-07-01,12:00,Air Canada,Occupied
+A5,2023-07-01,12:00,United,Occupied
+A6,2023-07-01,12:00,Porter,Occupied
+A7,2023-07-01,12:00,Porter,Occupied
+A8,2023-07-01,12:00,Porter,Vacant
+A9,2023-07-01,12:00,Delta,Occupied
+A10,2023-07-01,12:00,Porter,Occupied
+A1,2023-07-01,13:00,Porter,Occupied
+A2,2023-07-01,13:00,American,Vacant
+A3,2023-07-01,13:00,American,Vacant
+A4,2023-07-01,13:00,Delta,Occupied
+A5,2023-07-01,13:00,Delta,Occupied
+A6,2023-07-01,13:00,United,Occupied
+A7,2023-07-01,13:00,Delta,Occupied
+A8,2023-07-01,13:00,United,Vacant
+A9,2023-07-01,13:00,WestJet,Occupied
+A10,2023-07-01,13:00,Porter,Vacant
+A1,2023-07-01,14:00,American,Occupied
+A2,2023-07-01,14:00,WestJet,Occupied
+A3,2023-07-01,14:00,Delta,Occupied
+A4,2023-07-01,14:00,Porter,Vacant
+A5,2023-07-01,14:00,Porter,Occupied
+A6,2023-07-01,14:00,WestJet,Vacant
+A7,2023-07-01,14:00,Porter,Occupied
+A8,2023-07-01,14:00,United,Occupied
+A9,2023-07-01,14:00,WestJet,Occupied
+A10,2023-07-01,14:00,American,Occupied
+A1,2023-07-01,15:00,Delta,Occupied
+A2,2023-07-01,15:00,Air Canada,Occupied
+A3,2023-07-01,15:00,United,Occupied
+A4,2023-07-01,15:00,United,Occupied
+A5,2023-07-01,15:00,WestJet,Occupied
+A6,2023-07-01,15:00,Air Canada,Vacant
+A7,2023-07-01,15:00,American,Occupied
+A8,2023-07-01,15:00,WestJet,Occupied
+A9,2023-07-01,15:00,Porter,Occupied
+A10,2023-07-01,15:00,WestJet,Occupied
+A1,2023-07-01,16:00,American,Occupied
+A2,2023-07-01,16:00,American,Occupied
+A3,2023-07-01,16:00,Air Canada,Vacant
+A4,2023-07-01,16:00,Porter,Occupied
+A5,2023-07-01,16:00,Air Canada,Occupied
+A6,2023-07-01,16:00,Delta,Occupied
+A7,2023-07-01,16:00,Delta,Occupied
+A8,2023-07-01,16:00,Delta,Occupied
+A9,2023-07-01,16:00,Delta,Occupied
+A10,2023-07-01,16:00,Air Canada,Occupied
+A1,2023-07-01,17:00,American,Occupied
+A2,2023-07-01,17:00,WestJet,Vacant
+A3,2023-07-01,17:00,WestJet,Occupied
+A4,2023-07-01,17:00,American,Vacant
+A5,2023-07-01,17:00,American,Occupied
+A6,2023-07-01,17:00,Delta,Occupied
+A7,2023-07-01,17:00,Delta,Occupied
+A8,2023-07-01,17:00,Air Canada,Vacant
+A9,2023-07-01,17:00,United,Occupied
+A10,2023-07-01,17:00,Porter,Occupied
+A1,2023-07-01,18:00,Air Canada,Occupied
+A2,2023-07-01,18:00,Porter,Occupied
+A3,2023-07-01,18:00,Air Canada,Occupied
+A4,2023-07-01,18:00,Porter,Occupied
+A5,2023-07-01,18:00,Air Canada,Occupied
+A6,2023-07-01,18:00,WestJet,Vacant
+A7,2023-07-01,18:00,Delta,Occupied
+A8,2023-07-01,18:00,Air Canada,Occupied
+A9,2023-07-01,18:00,Delta,Occupied
+A10,2023-07-01,18:00,American,Occupied
+A1,2023-07-01,19:00,WestJet,Occupied
+A2,2023-07-01,19:00,Porter,Vacant
+A3,2023-07-01,19:00,Porter,Occupied
+A4,2023-07-01,19:00,American,Occupied
+A5,2023-07-01,19:00,American,Vacant
+A6,2023-07-01,19:00,Delta,Vacant
+A7,2023-07-01,19:00,United,Vacant
+A8,2023-07-01,19:00,United,Occupied
+A9,2023-07-01,19:00,Porter,Occupied
+A10,2023-07-01,19:00,Delta,Occupied
+A1,2023-07-01,20:00,Porter,Occupied
+A2,2023-07-01,20:00,Delta,Vacant
+A3,2023-07-01,20:00,WestJet,Occupied
+A4,2023-07-01,20:00,Porter,Occupied
+A5,2023-07-01,20:00,United,Occupied
+A6,2023-07-01,20:00,United,Vacant
+A7,2023-07-01,20:00,Air Canada,Occupied
+A8,2023-07-01,20:00,WestJet,Occupied
+A9,2023-07-01,20:00,Delta,Vacant
+A10,2023-07-01,20:00,United,Vacant
+A1,2023-07-01,21:00,Delta,Occupied
+A2,2023-07-01,21:00,American,Occupied
+A3,2023-07-01,21:00,United,Vacant
+A4,2023-07-01,21:00,United,Occupied
+A5,2023-07-01,21:00,WestJet,Occupied
+A6,2023-07-01,21:00,WestJet,Occupied
+A7,2023-07-01,21:00,American,Occupied
+A8,2023-07-01,21:00,Air Canada,Occupied
+A9,2023-07-01,21:00,WestJet,Occupied
+A10,2023-07-01,21:00,Air Canada,Occupied
+A1,2023-07-01,22:00,Delta,Vacant
+A2,2023-07-01,22:00,WestJet,Occupied
+A3,2023-07-01,22:00,Porter,Occupied
+A4,2023-07-01,22:00,Porter,Occupied
+A5,2023-07-01,22:00,American,Occupied
+A6,2023-07-01,22:00,WestJet,Vacant
+A7,2023-07-01,22:00,Air Canada,Occupied
+A8,2023-07-01,22:00,United,Occupied
+A9,2023-07-01,22:00,Air Canada,Occupied
+A10,2023-07-01,22:00,Delta,Vacant
+A1,2023-07-02,05:00,Delta,Occupied
+A2,2023-07-02,05:00,Delta,Occupied
+A3,2023-07-02,05:00,WestJet,Occupied
+A4,2023-07-02,05:00,United,Vacant
+A5,2023-07-02,05:00,Delta,Occupied
+A6,2023-07-02,05:00,United,Occupied
+A7,2023-07-02,05:00,American,Occupied
+A8,2023-07-02,05:00,Porter,Occupied
+A9,2023-07-02,05:00,WestJet,Occupied
+A10,2023-07-02,05:00,Air Canada,Vacant
+A1,2023-07-02,06:00,United,Occupied
+A2,2023-07-02,06:00,American,Occupied
+A3,2023-07-02,06:00,United,Occupied
+A4,2023-07-02,06:00,Air Canada,Vacant
+A5,2023-07-02,06:00,Air Canada,Vacant
+A6,2023-07-02,06:00,Delta,Occupied
+A7,2023-07-02,06:00,Porter,Occupied
+A8,2023-07-02,06:00,WestJet,Occupied
+A9,2023-07-02,06:00,Air Canada,Occupied
+A10,2023-07-02,06:00,WestJet,Vacant
+A1,2023-07-02,07:00,American,Occupied
+A2,2023-07-02,07:00,Air Canada,Vacant
+A3,2023-07-02,07:00,WestJet,Vacant
+A4,2023-07-02,07:00,American,Occupied
+A5,2023-07-02,07:00,WestJet,Occupied
+A6,2023-07-02,07:00,WestJet,Occupied
+A7,2023-07-02,07:00,United,Vacant
+A8,2023-07-02,07:00,Delta,Vacant
+A9,2023-07-02,07:00,American,Occupied
+A10,2023-07-02,07:00,American,Occupied
+A1,2023-07-02,08:00,American,Occupied
+A2,2023-07-02,08:00,American,Occupied
+A3,2023-07-02,08:00,American,Occupied
+A4,2023-07-02,08:00,Air Canada,Occupied
+A5,2023-07-02,08:00,Air Canada,Occupied
+A6,2023-07-02,08:00,American,Vacant
+A7,2023-07-02,08:00,United,Occupied
+A8,2023-07-02,08:00,United,Vacant
+A9,2023-07-02,08:00,Porter,Occupied
+A10,2023-07-02,08:00,WestJet,Vacant
+A1,2023-07-02,09:00,United,Occupied
+A2,2023-07-02,09:00,WestJet,Occupied
+A3,2023-07-02,09:00,Porter,Vacant
+A4,2023-07-02,09:00,American,Occupied
+A5,2023-07-02,09:00,Air Canada,Vacant
+A6,2023-07-02,09:00,American,Vacant
+A7,2023-07-02,09:00,WestJet,Occupied
+A8,2023-07-02,09:00,Delta,Occupied
+A9,2023-07-02,09:00,American,Occupied
+A10,2023-07-02,09:00,Air Canada,Occupied
+A1,2023-07-02,10:00,Delta,Occupied
+A2,2023-07-02,10:00,United,Occupied
+A3,2023-07-02,10:00,Porter,Occupied
+A4,2023-07-02,10:00,Air Canada,Occupied
+A5,2023-07-02,10:00,Porter,Occupied
+A6,2023-07-02,10:00,Delta,Occupied
+A7,2023-07-02,10:00,American,Occupied
+A8,2023-07-02,10:00,Porter,Occupied
+A9,2023-07-02,10:00,Air Canada,Occupied
+A10,2023-07-02,10:00,WestJet,Vacant
+A1,2023-07-02,11:00,Delta,Vacant
+A2,2023-07-02,11:00,United,Occupied
+A3,2023-07-02,11:00,Porter,Occupied
+A4,2023-07-02,11:00,WestJet,Occupied
+A5,2023-07-02,11:00,WestJet,Occupied
+A6,2023-07-02,11:00,United,Occupied
+A7,2023-07-02,11:00,Air Canada,Occupied
+A8,2023-07-02,11:00,Delta,Vacant
+A9,2023-07-02,11:00,WestJet,Occupied
+A10,2023-07-02,11:00,Air Canada,Occupied
+A1,2023-07-02,12:00,WestJet,Occupied
+A2,2023-07-02,12:00,WestJet,Occupied
+A3,2023-07-02,12:00,United,Occupied
+A4,2023-07-02,12:00,American,Occupied
+A5,2023-07-02,12:00,United,Vacant
+A6,2023-07-02,12:00,Delta,Occupied
+A7,2023-07-02,12:00,Air Canada,Occupied
+A8,2023-07-02,12:00,Porter,Vacant
+A9,2023-07-02,12:00,American,Occupied
+A10,2023-07-02,12:00,American,Occupied
+A1,2023-07-02,13:00,United,Occupied
+A2,2023-07-02,13:00,WestJet,Vacant
+A3,2023-07-02,13:00,Air Canada,Occupied
+A4,2023-07-02,13:00,American,Occupied
+A5,2023-07-02,13:00,American,Occupied
+A6,2023-07-02,13:00,WestJet,Occupied
+A7,2023-07-02,13:00,WestJet,Occupied
+A8,2023-07-02,13:00,American,Occupied
+A9,2023-07-02,13:00,Porter,Occupied
+A10,2023-07-02,13:00,American,Occupied
+A1,2023-07-02,14:00,Air Canada,Occupied
+A2,2023-07-02,14:00,Porter,Occupied
+A3,2023-07-02,14:00,Air Canada,Occupied
+A4,2023-07-02,14:00,WestJet,Occupied
+A5,2023-07-02,14:00,WestJet,Occupied
+A6,2023-07-02,14:00,WestJet,Occupied
+A7,2023-07-02,14:00,WestJet,Vacant
+A8,2023-07-02,14:00,United,Occupied
+A9,2023-07-02,14:00,Air Canada,Vacant
+A10,2023-07-02,14:00,Porter,Occupied
+A1,2023-07-02,15:00,Delta,Vacant
+A2,2023-07-02,15:00,Porter,Occupied
+A3,2023-07-02,15:00,Delta,Vacant
+A4,2023-07-02,15:00,WestJet,Occupied
+A5,2023-07-02,15:00,WestJet,Occupied
+A6,2023-07-02,15:00,WestJet,Occupied
+A7,2023-07-02,15:00,WestJet,Vacant
+A8,2023-07-02,15:00,Air Canada,Occupied
+A9,2023-07-02,15:00,American,Vacant
+A10,2023-07-02,15:00,Delta,Vacant
+A1,2023-07-02,16:00,Delta,Occupied
+A2,2023-07-02,16:00,United,Occupied
+A3,2023-07-02,16:00,Porter,Occupied
+A4,2023-07-02,16:00,Porter,Occupied
+A5,2023-07-02,16:00,Porter,Occupied
+A6,2023-07-02,16:00,Delta,Occupied
+A7,2023-07-02,16:00,United,Occupied
+A8,2023-07-02,16:00,American,Occupied
+A9,2023-07-02,16:00,American,Occupied
+A10,2023-07-02,16:00,United,Occupied
+A1,2023-07-02,17:00,Porter,Occupied
+A2,2023-07-02,17:00,Porter,Occupied
+A3,2023-07-02,17:00,Delta,Occupied
+A4,2023-07-02,17:00,Delta,Occupied
+A5,2023-07-02,17:00,WestJet,Occupied
+A6,2023-07-02,17:00,Air Canada,Vacant
+A7,2023-07-02,17:00,WestJet,Occupied
+A8,2023-07-02,17:00,American,Vacant
+A9,2023-07-02,17:00,WestJet,Occupied
+A10,2023-07-02,17:00,WestJet,Vacant
+A1,2023-07-02,18:00,Air Canada,Occupied
+A2,2023-07-02,18:00,Porter,Occupied
+A3,2023-07-02,18:00,American,Occupied
+A4,2023-07-02,18:00,Delta,Occupied
+A5,2023-07-02,18:00,Air Canada,Occupied
+A6,2023-07-02,18:00,Delta,Occupied
+A7,2023-07-02,18:00,Delta,Occupied
+A8,2023-07-02,18:00,Air Canada,Occupied
+A9,2023-07-02,18:00,American,Occupied
+A10,2023-07-02,18:00,Delta,Occupied
+A1,2023-07-02,19:00,Delta,Vacant
+A2,2023-07-02,19:00,Porter,Occupied
+A3,2023-07-02,19:00,Delta,Occupied
+A4,2023-07-02,19:00,American,Vacant
+A5,2023-07-02,19:00,United,Occupied
+A6,2023-07-02,19:00,Delta,Vacant
+A7,2023-07-02,19:00,Porter,Occupied
+A8,2023-07-02,19:00,Delta,Occupied
+A9,2023-07-02,19:00,American,Vacant
+A10,2023-07-02,19:00,WestJet,Occupied
+A1,2023-07-02,20:00,American,Occupied
+A2,2023-07-02,20:00,Delta,Occupied
+A3,2023-07-02,20:00,Air Canada,Occupied
+A4,2023-07-02,20:00,Porter,Occupied
+A5,2023-07-02,20:00,Delta,Occupied
+A6,2023-07-02,20:00,WestJet,Vacant
+A7,2023-07-02,20:00,Air Canada,Occupied
+A8,2023-07-02,20:00,United,Occupied
+A9,2023-07-02,20:00,Delta,Occupied
+A10,2023-07-02,20:00,United,Occupied
+A1,2023-07-02,21:00,Porter,Occupied
+A2,2023-07-02,21:00,WestJet,Occupied
+A3,2023-07-02,21:00,Air Canada,Vacant
+A4,2023-07-02,21:00,Delta,Vacant
+A5,2023-07-02,21:00,American,Occupied
+A6,2023-07-02,21:00,Delta,Vacant
+A7,2023-07-02,21:00,Delta,Vacant
+A8,2023-07-02,21:00,Delta,Vacant
+A9,2023-07-02,21:00,Delta,Vacant
+A10,2023-07-02,21:00,Delta,Occupied
+A1,2023-07-02,22:00,Air Canada,Occupied
+A2,2023-07-02,22:00,American,Vacant
+A3,2023-07-02,22:00,United,Vacant
+A4,2023-07-02,22:00,American,Occupied
+A5,2023-07-02,22:00,United,Vacant
+A6,2023-07-02,22:00,WestJet,Occupied
+A7,2023-07-02,22:00,Air Canada,Occupied
+A8,2023-07-02,22:00,American,Occupied
+A9,2023-07-02,22:00,WestJet,Vacant
+A10,2023-07-02,22:00,United,Vacant
+A1,2023-07-03,05:00,Delta,Vacant
+A2,2023-07-03,05:00,WestJet,Occupied
+A3,2023-07-03,05:00,Air Canada,Occupied
+A4,2023-07-03,05:00,Air Canada,Vacant
+A5,2023-07-03,05:00,Air Canada,Occupied
+A6,2023-07-03,05:00,United,Occupied
+A7,2023-07-03,05:00,Porter,Occupied
+A8,2023-07-03,05:00,United,Occupied
+A9,2023-07-03,05:00,Air Canada,Occupied
+A10,2023-07-03,05:00,Delta,Occupied
+A1,2023-07-03,06:00,United,Occupied
+A2,2023-07-03,06:00,United,Occupied
+A3,2023-07-03,06:00,Air Canada,Occupied
+A4,2023-07-03,06:00,Porter,Occupied
+A5,2023-07-03,06:00,WestJet,Occupied
+A6,2023-07-03,06:00,United,Occupied
+A7,2023-07-03,06:00,Air Canada,Occupied
+A8,2023-07-03,06:00,United,Occupied
+A9,2023-07-03,06:00,Porter,Occupied
+A10,2023-07-03,06:00,United,Occupied
+A1,2023-07-03,07:00,WestJet,Occupied
+A2,2023-07-03,07:00,American,Occupied
+A3,2023-07-03,07:00,United,Occupied
+A4,2023-07-03,07:00,Air Canada,Occupied
+A5,2023-07-03,07:00,United,Occupied
+A6,2023-07-03,07:00,Porter,Occupied
+A7,2023-07-03,07:00,United,Occupied
+A8,2023-07-03,07:00,American,Occupied
+A9,2023-07-03,07:00,Porter,Vacant
+A10,2023-07-03,07:00,United,Occupied
+A1,2023-07-03,08:00,WestJet,Occupied
+A2,2023-07-03,08:00,WestJet,Occupied
+A3,2023-07-03,08:00,Air Canada,Occupied
+A4,2023-07-03,08:00,WestJet,Occupied
+A5,2023-07-03,08:00,Porter,Occupied
+A6,2023-07-03,08:00,Porter,Vacant
+A7,2023-07-03,08:00,WestJet,Occupied
+A8,2023-07-03,08:00,WestJet,Occupied
+A9,2023-07-03,08:00,American,Occupied
+A10,2023-07-03,08:00,Air Canada,Occupied
+A1,2023-07-03,09:00,American,Occupied
+A2,2023-07-03,09:00,United,Occupied
+A3,2023-07-03,09:00,United,Occupied
+A4,2023-07-03,09:00,Air Canada,Vacant
+A5,2023-07-03,09:00,United,Occupied
+A6,2023-07-03,09:00,Air Canada,Occupied
+A7,2023-07-03,09:00,Delta,Vacant
+A8,2023-07-03,09:00,Air Canada,Occupied
+A9,2023-07-03,09:00,Porter,Occupied
+A10,2023-07-03,09:00,American,Occupied
+A1,2023-07-03,10:00,American,Occupied
+A2,2023-07-03,10:00,WestJet,Occupied
+A3,2023-07-03,10:00,United,Occupied
+A4,2023-07-03,10:00,WestJet,Occupied
+A5,2023-07-03,10:00,WestJet,Vacant
+A6,2023-07-03,10:00,Delta,Occupied
+A7,2023-07-03,10:00,United,Occupied
+A8,2023-07-03,10:00,Air Canada,Occupied
+A9,2023-07-03,10:00,Porter,Vacant
+A10,2023-07-03,10:00,United,Occupied
+A1,2023-07-03,11:00,United,Occupied
+A2,2023-07-03,11:00,WestJet,Occupied
+A3,2023-07-03,11:00,Porter,Occupied
+A4,2023-07-03,11:00,American,Occupied
+A5,2023-07-03,11:00,WestJet,Occupied
+A6,2023-07-03,11:00,Air Canada,Occupied
+A7,2023-07-03,11:00,Air Canada,Vacant
+A8,2023-07-03,11:00,WestJet,Vacant
+A9,2023-07-03,11:00,American,Occupied
+A10,2023-07-03,11:00,WestJet,Occupied
+A1,2023-07-03,12:00,WestJet,Occupied
+A2,2023-07-03,12:00,American,Occupied
+A3,2023-07-03,12:00,United,Occupied
+A4,2023-07-03,12:00,Air Canada,Vacant
+A5,2023-07-03,12:00,Porter,Occupied
+A6,2023-07-03,12:00,Delta,Occupied
+A7,2023-07-03,12:00,Delta,Vacant
+A8,2023-07-03,12:00,Delta,Occupied
+A9,2023-07-03,12:00,United,Occupied
+A10,2023-07-03,12:00,Porter,Occupied
+A1,2023-07-03,13:00,Air Canada,Occupied
+A2,2023-07-03,13:00,Delta,Occupied
+A3,2023-07-03,13:00,WestJet,Occupied
+A4,2023-07-03,13:00,United,Occupied
+A5,2023-07-03,13:00,United,Occupied
+A6,2023-07-03,13:00,American,Occupied
+A7,2023-07-03,13:00,WestJet,Occupied
+A8,2023-07-03,13:00,Delta,Occupied
+A9,2023-07-03,13:00,Porter,Vacant
+A10,2023-07-03,13:00,Porter,Occupied
+A1,2023-07-03,14:00,WestJet,Vacant
+A2,2023-07-03,14:00,Porter,Occupied
+A3,2023-07-03,14:00,Porter,Occupied
+A4,2023-07-03,14:00,Porter,Vacant
+A5,2023-07-03,14:00,WestJet,Occupied
+A6,2023-07-03,14:00,Delta,Occupied
+A7,2023-07-03,14:00,American,Occupied
+A8,2023-07-03,14:00,United,Occupied
+A9,2023-07-03,14:00,Air Canada,Occupied
+A10,2023-07-03,14:00,Delta,Vacant
+A1,2023-07-03,15:00,WestJet,Vacant
+A2,2023-07-03,15:00,American,Occupied
+A3,2023-07-03,15:00,WestJet,Occupied
+A4,2023-07-03,15:00,Delta,Vacant
+A5,2023-07-03,15:00,American,Vacant
+A6,2023-07-03,15:00,United,Occupied
+A7,2023-07-03,15:00,American,Vacant
+A8,2023-07-03,15:00,American,Vacant
+A9,2023-07-03,15:00,Air Canada,Occupied
+A10,2023-07-03,15:00,American,Occupied
+A1,2023-07-03,16:00,American,Vacant
+A2,2023-07-03,16:00,Porter,Vacant
+A3,2023-07-03,16:00,Delta,Occupied
+A4,2023-07-03,16:00,United,Occupied
+A5,2023-07-03,16:00,WestJet,Vacant
+A6,2023-07-03,16:00,WestJet,Occupied
+A7,2023-07-03,16:00,Delta,Occupied
+A8,2023-07-03,16:00,WestJet,Occupied
+A9,2023-07-03,16:00,Porter,Vacant
+A10,2023-07-03,16:00,Air Canada,Occupied
+A1,2023-07-03,17:00,United,Occupied
+A2,2023-07-03,17:00,Porter,Occupied
+A3,2023-07-03,17:00,Delta,Vacant
+A4,2023-07-03,17:00,United,Occupied
+A5,2023-07-03,17:00,Porter,Vacant
+A6,2023-07-03,17:00,Air Canada,Occupied
+A7,2023-07-03,17:00,American,Vacant
+A8,2023-07-03,17:00,Air Canada,Vacant
+A9,2023-07-03,17:00,American,Vacant
+A10,2023-07-03,17:00,Delta,Occupied
+A1,2023-07-03,18:00,American,Vacant
+A2,2023-07-03,18:00,Air Canada,Occupied
+A3,2023-07-03,18:00,United,Vacant
+A4,2023-07-03,18:00,Delta,Occupied
+A5,2023-07-03,18:00,WestJet,Occupied
+A6,2023-07-03,18:00,Air Canada,Occupied
+A7,2023-07-03,18:00,Delta,Vacant
+A8,2023-07-03,18:00,Air Canada,Occupied
+A9,2023-07-03,18:00,American,Occupied
+A10,2023-07-03,18:00,Porter,Occupied
+A1,2023-07-03,19:00,Delta,Occupied
+A2,2023-07-03,19:00,Air Canada,Vacant
+A3,2023-07-03,19:00,Porter,Vacant
+A4,2023-07-03,19:00,American,Occupied
+A5,2023-07-03,19:00,WestJet,Occupied
+A6,2023-07-03,19:00,American,Occupied
+A7,2023-07-03,19:00,Delta,Occupied
+A8,2023-07-03,19:00,American,Vacant
+A9,2023-07-03,19:00,Air Canada,Vacant
+A10,2023-07-03,19:00,WestJet,Occupied
+A1,2023-07-03,20:00,Air Canada,Occupied
+A2,2023-07-03,20:00,Air Canada,Occupied
+A3,2023-07-03,20:00,United,Occupied
+A4,2023-07-03,20:00,Delta,Occupied
+A5,2023-07-03,20:00,Delta,Occupied
+A6,2023-07-03,20:00,Delta,Vacant
+A7,2023-07-03,20:00,Delta,Vacant
+A8,2023-07-03,20:00,Delta,Occupied
+A9,2023-07-03,20:00,Delta,Occupied
+A10,2023-07-03,20:00,Air Canada,Occupied
+A1,2023-07-03,21:00,WestJet,Occupied
+A2,2023-07-03,21:00,Delta,Occupied
+A3,2023-07-03,21:00,American,Occupied
+A4,2023-07-03,21:00,Air Canada,Occupied
+A5,2023-07-03,21:00,Air Canada,Vacant
+A6,2023-07-03,21:00,Air Canada,Occupied
+A7,2023-07-03,21:00,Porter,Occupied
+A8,2023-07-03,21:00,WestJet,Occupied
+A9,2023-07-03,21:00,United,Occupied
+A10,2023-07-03,21:00,American,Occupied
+A1,2023-07-03,22:00,United,Occupied
+A2,2023-07-03,22:00,WestJet,Vacant
+A3,2023-07-03,22:00,Air Canada,Occupied
+A4,2023-07-03,22:00,United,Vacant
+A5,2023-07-03,22:00,Porter,Vacant
+A6,2023-07-03,22:00,United,Occupied
+A7,2023-07-03,22:00,Delta,Occupied
+A8,2023-07-03,22:00,Delta,Occupied
+A9,2023-07-03,22:00,American,Occupied
+A10,2023-07-03,22:00,Porter,Occupied
+A1,2023-07-04,05:00,WestJet,Occupied
+A2,2023-07-04,05:00,United,Occupied
+A3,2023-07-04,05:00,Air Canada,Occupied
+A4,2023-07-04,05:00,American,Occupied
+A5,2023-07-04,05:00,Air Canada,Occupied
+A6,2023-07-04,05:00,American,Occupied
+A7,2023-07-04,05:00,American,Occupied
+A8,2023-07-04,05:00,WestJet,Vacant
+A9,2023-07-04,05:00,Air Canada,Occupied
+A10,2023-07-04,05:00,United,Vacant
+A1,2023-07-04,06:00,Air Canada,Occupied
+A2,2023-07-04,06:00,Air Canada,Vacant
+A3,2023-07-04,06:00,WestJet,Occupied
+A4,2023-07-04,06:00,Air Canada,Occupied
+A5,2023-07-04,06:00,Air Canada,Vacant
+A6,2023-07-04,06:00,Porter,Occupied
+A7,2023-07-04,06:00,United,Occupied
+A8,2023-07-04,06:00,Porter,Occupied
+A9,2023-07-04,06:00,Porter,Occupied
+A10,2023-07-04,06:00,United,Vacant
+A1,2023-07-04,07:00,American,Vacant
+A2,2023-07-04,07:00,Delta,Occupied
+A3,2023-07-04,07:00,American,Occupied
+A4,2023-07-04,07:00,Delta,Vacant
+A5,2023-07-04,07:00,Air Canada,Vacant
+A6,2023-07-04,07:00,United,Occupied
+A7,2023-07-04,07:00,Air Canada,Occupied
+A8,2023-07-04,07:00,United,Occupied
+A9,2023-07-04,07:00,Porter,Occupied
+A10,2023-07-04,07:00,WestJet,Occupied
+A1,2023-07-04,08:00,WestJet,Occupied
+A2,2023-07-04,08:00,Delta,Vacant
+A3,2023-07-04,08:00,Porter,Occupied
+A4,2023-07-04,08:00,WestJet,Vacant
+A5,2023-07-04,08:00,Air Canada,Occupied
+A6,2023-07-04,08:00,United,Occupied
+A7,2023-07-04,08:00,United,Occupied
+A8,2023-07-04,08:00,WestJet,Vacant
+A9,2023-07-04,08:00,American,Vacant
+A10,2023-07-04,08:00,Porter,Occupied
+A1,2023-07-04,09:00,Porter,Vacant
+A2,2023-07-04,09:00,WestJet,Occupied
+A3,2023-07-04,09:00,Delta,Vacant
+A4,2023-07-04,09:00,Delta,Occupied
+A5,2023-07-04,09:00,American,Vacant
+A6,2023-07-04,09:00,United,Vacant
+A7,2023-07-04,09:00,Delta,Occupied
+A8,2023-07-04,09:00,United,Occupied
+A9,2023-07-04,09:00,Delta,Occupied
+A10,2023-07-04,09:00,United,Occupied
+A1,2023-07-04,10:00,WestJet,Occupied
+A2,2023-07-04,10:00,WestJet,Occupied
+A3,2023-07-04,10:00,United,Occupied
+A4,2023-07-04,10:00,Porter,Occupied
+A5,2023-07-04,10:00,American,Vacant
+A6,2023-07-04,10:00,Delta,Occupied
+A7,2023-07-04,10:00,United,Occupied
+A8,2023-07-04,10:00,Air Canada,Occupied
+A9,2023-07-04,10:00,American,Occupied
+A10,2023-07-04,10:00,WestJet,Occupied
+A1,2023-07-04,11:00,Porter,Occupied
+A2,2023-07-04,11:00,United,Occupied
+A3,2023-07-04,11:00,United,Occupied
+A4,2023-07-04,11:00,Air Canada,Occupied
+A5,2023-07-04,11:00,Air Canada,Occupied
+A6,2023-07-04,11:00,Air Canada,Occupied
+A7,2023-07-04,11:00,Delta,Occupied
+A8,2023-07-04,11:00,Air Canada,Occupied
+A9,2023-07-04,11:00,American,Vacant
+A10,2023-07-04,11:00,Porter,Vacant
+A1,2023-07-04,12:00,Porter,Vacant
+A2,2023-07-04,12:00,Air Canada,Vacant
+A3,2023-07-04,12:00,Porter,Occupied
+A4,2023-07-04,12:00,Air Canada,Occupied
+A5,2023-07-04,12:00,United,Occupied
+A6,2023-07-04,12:00,American,Vacant
+A7,2023-07-04,12:00,Porter,Occupied
+A8,2023-07-04,12:00,Porter,Occupied
+A9,2023-07-04,12:00,United,Occupied
+A10,2023-07-04,12:00,American,Occupied
+A1,2023-07-04,13:00,United,Occupied
+A2,2023-07-04,13:00,Porter,Occupied
+A3,2023-07-04,13:00,WestJet,Vacant
+A4,2023-07-04,13:00,Porter,Occupied
+A5,2023-07-04,13:00,Porter,Occupied
+A6,2023-07-04,13:00,Porter,Occupied
+A7,2023-07-04,13:00,WestJet,Occupied
+A8,2023-07-04,13:00,United,Vacant
+A9,2023-07-04,13:00,Porter,Occupied
+A10,2023-07-04,13:00,Delta,Vacant
+A1,2023-07-04,14:00,Delta,Occupied
+A2,2023-07-04,14:00,American,Occupied
+A3,2023-07-04,14:00,Delta,Occupied
+A4,2023-07-04,14:00,American,Occupied
+A5,2023-07-04,14:00,Delta,Occupied
+A6,2023-07-04,14:00,American,Vacant
+A7,2023-07-04,14:00,Air Canada,Occupied
+A8,2023-07-04,14:00,Delta,Vacant
+A9,2023-07-04,14:00,American,Occupied
+A10,2023-07-04,14:00,Delta,Occupied
+A1,2023-07-04,15:00,American,Occupied
+A2,2023-07-04,15:00,Delta,Occupied
+A3,2023-07-04,15:00,Delta,Occupied
+A4,2023-07-04,15:00,United,Occupied
+A5,2023-07-04,15:00,Air Canada,Occupied
+A6,2023-07-04,15:00,Porter,Occupied
+A7,2023-07-04,15:00,Air Canada,Occupied
+A8,2023-07-04,15:00,WestJet,Occupied
+A9,2023-07-04,15:00,United,Occupied
+A10,2023-07-04,15:00,Air Canada,Vacant
+A1,2023-07-04,16:00,Air Canada,Occupied
+A2,2023-07-04,16:00,Porter,Occupied
+A3,2023-07-04,16:00,United,Occupied
+A4,2023-07-04,16:00,Porter,Occupied
+A5,2023-07-04,16:00,United,Vacant
+A6,2023-07-04,16:00,WestJet,Vacant
+A7,2023-07-04,16:00,United,Occupied
+A8,2023-07-04,16:00,Delta,Occupied
+A9,2023-07-04,16:00,Air Canada,Occupied
+A10,2023-07-04,16:00,Air Canada,Occupied
+A1,2023-07-04,17:00,United,Vacant
+A2,2023-07-04,17:00,Delta,Occupied
+A3,2023-07-04,17:00,Delta,Occupied
+A4,2023-07-04,17:00,WestJet,Vacant
+A5,2023-07-04,17:00,Porter,Occupied
+A6,2023-07-04,17:00,American,Occupied
+A7,2023-07-04,17:00,Porter,Occupied
+A8,2023-07-04,17:00,Delta,Vacant
+A9,2023-07-04,17:00,Porter,Occupied
+A10,2023-07-04,17:00,WestJet,Vacant
+A1,2023-07-04,18:00,American,Occupied
+A2,2023-07-04,18:00,Delta,Occupied
+A3,2023-07-04,18:00,Air Canada,Occupied
+A4,2023-07-04,18:00,Porter,Occupied
+A5,2023-07-04,18:00,Air Canada,Vacant
+A6,2023-07-04,18:00,United,Vacant
+A7,2023-07-04,18:00,Delta,Occupied
+A8,2023-07-04,18:00,Porter,Occupied
+A9,2023-07-04,18:00,United,Occupied
+A10,2023-07-04,18:00,WestJet,Occupied
+A1,2023-07-04,19:00,WestJet,Occupied
+A2,2023-07-04,19:00,Air Canada,Occupied
+A3,2023-07-04,19:00,Delta,Vacant
+A4,2023-07-04,19:00,American,Occupied
+A5,2023-07-04,19:00,United,Occupied
+A6,2023-07-04,19:00,Porter,Occupied
+A7,2023-07-04,19:00,WestJet,Occupied
+A8,2023-07-04,19:00,American,Occupied
+A9,2023-07-04,19:00,United,Vacant
+A10,2023-07-04,19:00,Delta,Occupied
+A1,2023-07-04,20:00,American,Occupied
+A2,2023-07-04,20:00,American,Occupied
+A3,2023-07-04,20:00,Delta,Occupied
+A4,2023-07-04,20:00,American,Occupied
+A5,2023-07-04,20:00,Delta,Occupied
+A6,2023-07-04,20:00,American,Occupied
+A7,2023-07-04,20:00,Porter,Occupied
+A8,2023-07-04,20:00,Air Canada,Vacant
+A9,2023-07-04,20:00,Delta,Occupied
+A10,2023-07-04,20:00,American,Occupied
+A1,2023-07-04,21:00,Delta,Occupied
+A2,2023-07-04,21:00,Porter,Occupied
+A3,2023-07-04,21:00,Delta,Vacant
+A4,2023-07-04,21:00,WestJet,Occupied
+A5,2023-07-04,21:00,Delta,Vacant
+A6,2023-07-04,21:00,Air Canada,Vacant
+A7,2023-07-04,21:00,Porter,Occupied
+A8,2023-07-04,21:00,Air Canada,Occupied
+A9,2023-07-04,21:00,United,Occupied
+A10,2023-07-04,21:00,American,Occupied
+A1,2023-07-04,22:00,Air Canada,Vacant
+A2,2023-07-04,22:00,American,Occupied
+A3,2023-07-04,22:00,Air Canada,Occupied
+A4,2023-07-04,22:00,United,Occupied
+A5,2023-07-04,22:00,Porter,Occupied
+A6,2023-07-04,22:00,WestJet,Occupied
+A7,2023-07-04,22:00,United,Occupied
+A8,2023-07-04,22:00,Porter,Occupied
+A9,2023-07-04,22:00,Delta,Occupied
+A10,2023-07-04,22:00,Air Canada,Occupied
+A1,2023-07-05,05:00,Delta,Vacant
+A2,2023-07-05,05:00,Porter,Vacant
+A3,2023-07-05,05:00,American,Occupied
+A4,2023-07-05,05:00,Air Canada,Vacant
+A5,2023-07-05,05:00,Porter,Occupied
+A6,2023-07-05,05:00,WestJet,Occupied
+A7,2023-07-05,05:00,Porter,Vacant
+A8,2023-07-05,05:00,WestJet,Vacant
+A9,2023-07-05,05:00,Air Canada,Occupied
+A10,2023-07-05,05:00,Porter,Occupied
+A1,2023-07-05,06:00,Delta,Occupied
+A2,2023-07-05,06:00,Porter,Occupied
+A3,2023-07-05,06:00,Porter,Occupied
+A4,2023-07-05,06:00,Delta,Occupied
+A5,2023-07-05,06:00,Delta,Occupied
+A6,2023-07-05,06:00,WestJet,Occupied
+A7,2023-07-05,06:00,Delta,Vacant
+A8,2023-07-05,06:00,Porter,Occupied
+A9,2023-07-05,06:00,Air Canada,Vacant
+A10,2023-07-05,06:00,WestJet,Occupied
+A1,2023-07-05,07:00,United,Occupied
+A2,2023-07-05,07:00,United,Occupied
+A3,2023-07-05,07:00,Air Canada,Occupied
+A4,2023-07-05,07:00,WestJet,Occupied
+A5,2023-07-05,07:00,Air Canada,Occupied
+A6,2023-07-05,07:00,Delta,Occupied
+A7,2023-07-05,07:00,WestJet,Occupied
+A8,2023-07-05,07:00,Delta,Occupied
+A9,2023-07-05,07:00,Delta,Occupied
+A10,2023-07-05,07:00,United,Occupied
+A1,2023-07-05,08:00,WestJet,Occupied
+A2,2023-07-05,08:00,Delta,Occupied
+A3,2023-07-05,08:00,Air Canada,Occupied
+A4,2023-07-05,08:00,WestJet,Occupied
+A5,2023-07-05,08:00,Porter,Vacant
+A6,2023-07-05,08:00,Delta,Vacant
+A7,2023-07-05,08:00,American,Vacant
+A8,2023-07-05,08:00,WestJet,Occupied
+A9,2023-07-05,08:00,United,Vacant
+A10,2023-07-05,08:00,American,Vacant
+A1,2023-07-05,09:00,Delta,Occupied
+A2,2023-07-05,09:00,United,Occupied
+A3,2023-07-05,09:00,Porter,Occupied
+A4,2023-07-05,09:00,Air Canada,Vacant
+A5,2023-07-05,09:00,Air Canada,Occupied
+A6,2023-07-05,09:00,American,Vacant
+A7,2023-07-05,09:00,Air Canada,Occupied
+A8,2023-07-05,09:00,United,Occupied
+A9,2023-07-05,09:00,Delta,Occupied
+A10,2023-07-05,09:00,Air Canada,Occupied
+A1,2023-07-05,10:00,United,Occupied
+A2,2023-07-05,10:00,WestJet,Occupied
+A3,2023-07-05,10:00,Porter,Occupied
+A4,2023-07-05,10:00,Porter,Occupied
+A5,2023-07-05,10:00,WestJet,Occupied
+A6,2023-07-05,10:00,Porter,Occupied
+A7,2023-07-05,10:00,Porter,Occupied
+A8,2023-07-05,10:00,WestJet,Occupied
+A9,2023-07-05,10:00,WestJet,Occupied
+A10,2023-07-05,10:00,Air Canada,Occupied
+A1,2023-07-05,11:00,WestJet,Vacant
+A2,2023-07-05,11:00,American,Occupied
+A3,2023-07-05,11:00,WestJet,Occupied
+A4,2023-07-05,11:00,Air Canada,Occupied
+A5,2023-07-05,11:00,United,Occupied
+A6,2023-07-05,11:00,Porter,Occupied
+A7,2023-07-05,11:00,United,Occupied
+A8,2023-07-05,11:00,American,Occupied
+A9,2023-07-05,11:00,American,Occupied
+A10,2023-07-05,11:00,American,Occupied
+A1,2023-07-05,12:00,American,Occupied
+A2,2023-07-05,12:00,Delta,Occupied
+A3,2023-07-05,12:00,American,Vacant
+A4,2023-07-05,12:00,WestJet,Occupied
+A5,2023-07-05,12:00,Delta,Vacant
+A6,2023-07-05,12:00,United,Occupied
+A7,2023-07-05,12:00,United,Occupied
+A8,2023-07-05,12:00,American,Occupied
+A9,2023-07-05,12:00,WestJet,Occupied
+A10,2023-07-05,12:00,Porter,Vacant
+A1,2023-07-05,13:00,American,Vacant
+A2,2023-07-05,13:00,United,Occupied
+A3,2023-07-05,13:00,Porter,Occupied
+A4,2023-07-05,13:00,United,Occupied
+A5,2023-07-05,13:00,Air Canada,Occupied
+A6,2023-07-05,13:00,WestJet,Occupied
+A7,2023-07-05,13:00,United,Vacant
+A8,2023-07-05,13:00,Delta,Occupied
+A9,2023-07-05,13:00,United,Occupied
+A10,2023-07-05,13:00,United,Occupied
+A1,2023-07-05,14:00,Delta,Occupied
+A2,2023-07-05,14:00,Porter,Occupied
+A3,2023-07-05,14:00,WestJet,Occupied
+A4,2023-07-05,14:00,WestJet,Vacant
+A5,2023-07-05,14:00,Delta,Occupied
+A6,2023-07-05,14:00,American,Occupied
+A7,2023-07-05,14:00,WestJet,Occupied
+A8,2023-07-05,14:00,Delta,Occupied
+A9,2023-07-05,14:00,Porter,Vacant
+A10,2023-07-05,14:00,Air Canada,Occupied
+A1,2023-07-05,15:00,United,Occupied
+A2,2023-07-05,15:00,WestJet,Occupied
+A3,2023-07-05,15:00,Delta,Vacant
+A4,2023-07-05,15:00,Delta,Vacant
+A5,2023-07-05,15:00,United,Occupied
+A6,2023-07-05,15:00,WestJet,Occupied
+A7,2023-07-05,15:00,Porter,Occupied
+A8,2023-07-05,15:00,Air Canada,Vacant
+A9,2023-07-05,15:00,Air Canada,Occupied
+A10,2023-07-05,15:00,Air Canada,Occupied
+A1,2023-07-05,16:00,Air Canada,Vacant
+A2,2023-07-05,16:00,WestJet,Occupied
+A3,2023-07-05,16:00,Delta,Vacant
+A4,2023-07-05,16:00,American,Vacant
+A5,2023-07-05,16:00,Air Canada,Vacant
+A6,2023-07-05,16:00,Air Canada,Vacant
+A7,2023-07-05,16:00,Porter,Occupied
+A8,2023-07-05,16:00,American,Occupied
+A9,2023-07-05,16:00,United,Occupied
+A10,2023-07-05,16:00,Delta,Vacant
+A1,2023-07-05,17:00,Air Canada,Occupied
+A2,2023-07-05,17:00,WestJet,Occupied
+A3,2023-07-05,17:00,Delta,Occupied
+A4,2023-07-05,17:00,Delta,Vacant
+A5,2023-07-05,17:00,Delta,Occupied
+A6,2023-07-05,17:00,Porter,Occupied
+A7,2023-07-05,17:00,Porter,Vacant
+A8,2023-07-05,17:00,Delta,Occupied
+A9,2023-07-05,17:00,WestJet,Occupied
+A10,2023-07-05,17:00,American,Occupied
+A1,2023-07-05,18:00,WestJet,Vacant
+A2,2023-07-05,18:00,Delta,Vacant
+A3,2023-07-05,18:00,Porter,Occupied
+A4,2023-07-05,18:00,Delta,Occupied
+A5,2023-07-05,18:00,United,Occupied
+A6,2023-07-05,18:00,Delta,Occupied
+A7,2023-07-05,18:00,Delta,Occupied
+A8,2023-07-05,18:00,United,Occupied
+A9,2023-07-05,18:00,WestJet,Vacant
+A10,2023-07-05,18:00,United,Occupied
+A1,2023-07-05,19:00,Delta,Occupied
+A2,2023-07-05,19:00,American,Vacant
+A3,2023-07-05,19:00,Porter,Occupied
+A4,2023-07-05,19:00,United,Occupied
+A5,2023-07-05,19:00,Delta,Occupied
+A6,2023-07-05,19:00,American,Occupied
+A7,2023-07-05,19:00,Porter,Occupied
+A8,2023-07-05,19:00,WestJet,Occupied
+A9,2023-07-05,19:00,Air Canada,Occupied
+A10,2023-07-05,19:00,Porter,Occupied
+A1,2023-07-05,20:00,Delta,Vacant
+A2,2023-07-05,20:00,Air Canada,Occupied
+A3,2023-07-05,20:00,United,Occupied
+A4,2023-07-05,20:00,Delta,Occupied
+A5,2023-07-05,20:00,Porter,Occupied
+A6,2023-07-05,20:00,Delta,Occupied
+A7,2023-07-05,20:00,Air Canada,Occupied
+A8,2023-07-05,20:00,Porter,Occupied
+A9,2023-07-05,20:00,Delta,Occupied
+A10,2023-07-05,20:00,Air Canada,Occupied
+A1,2023-07-05,21:00,WestJet,Vacant
+A2,2023-07-05,21:00,Delta,Occupied
+A3,2023-07-05,21:00,WestJet,Occupied
+A4,2023-07-05,21:00,WestJet,Occupied
+A5,2023-07-05,21:00,Porter,Occupied
+A6,2023-07-05,21:00,American,Occupied
+A7,2023-07-05,21:00,Air Canada,Vacant
+A8,2023-07-05,21:00,Air Canada,Occupied
+A9,2023-07-05,21:00,Porter,Occupied
+A10,2023-07-05,21:00,Porter,Occupied
+A1,2023-07-05,22:00,United,Occupied
+A2,2023-07-05,22:00,Air Canada,Occupied
+A3,2023-07-05,22:00,American,Occupied
+A4,2023-07-05,22:00,American,Occupied
+A5,2023-07-05,22:00,Delta,Occupied
+A6,2023-07-05,22:00,WestJet,Vacant
+A7,2023-07-05,22:00,United,Occupied
+A8,2023-07-05,22:00,Porter,Occupied
+A9,2023-07-05,22:00,Delta,Occupied
+A10,2023-07-05,22:00,United,Vacant
+A1,2023-07-06,05:00,United,Occupied
+A2,2023-07-06,05:00,Air Canada,Occupied
+A3,2023-07-06,05:00,United,Occupied
+A4,2023-07-06,05:00,Delta,Vacant
+A5,2023-07-06,05:00,WestJet,Occupied
+A6,2023-07-06,05:00,Porter,Vacant
+A7,2023-07-06,05:00,Porter,Occupied
+A8,2023-07-06,05:00,Porter,Vacant
+A9,2023-07-06,05:00,Delta,Occupied
+A10,2023-07-06,05:00,Air Canada,Occupied
+A1,2023-07-06,06:00,Delta,Occupied
+A2,2023-07-06,06:00,American,Occupied
+A3,2023-07-06,06:00,Delta,Occupied
+A4,2023-07-06,06:00,United,Occupied
+A5,2023-07-06,06:00,WestJet,Occupied
+A6,2023-07-06,06:00,Porter,Occupied
+A7,2023-07-06,06:00,WestJet,Occupied
+A8,2023-07-06,06:00,WestJet,Occupied
+A9,2023-07-06,06:00,Air Canada,Occupied
+A10,2023-07-06,06:00,American,Vacant
+A1,2023-07-06,07:00,United,Occupied
+A2,2023-07-06,07:00,WestJet,Vacant
+A3,2023-07-06,07:00,WestJet,Occupied
+A4,2023-07-06,07:00,WestJet,Occupied
+A5,2023-07-06,07:00,Porter,Vacant
+A6,2023-07-06,07:00,WestJet,Occupied
+A7,2023-07-06,07:00,Porter,Occupied
+A8,2023-07-06,07:00,WestJet,Occupied
+A9,2023-07-06,07:00,Air Canada,Occupied
+A10,2023-07-06,07:00,Delta,Vacant
+A1,2023-07-06,08:00,WestJet,Occupied
+A2,2023-07-06,08:00,Delta,Occupied
+A3,2023-07-06,08:00,Air Canada,Occupied
+A4,2023-07-06,08:00,Delta,Vacant
+A5,2023-07-06,08:00,American,Occupied
+A6,2023-07-06,08:00,WestJet,Occupied
+A7,2023-07-06,08:00,United,Occupied
+A8,2023-07-06,08:00,Delta,Occupied
+A9,2023-07-06,08:00,Porter,Occupied
+A10,2023-07-06,08:00,United,Occupied
+A1,2023-07-06,09:00,American,Occupied
+A2,2023-07-06,09:00,Delta,Vacant
+A3,2023-07-06,09:00,WestJet,Occupied
+A4,2023-07-06,09:00,Air Canada,Occupied
+A5,2023-07-06,09:00,Air Canada,Occupied
+A6,2023-07-06,09:00,American,Occupied
+A7,2023-07-06,09:00,WestJet,Occupied
+A8,2023-07-06,09:00,American,Occupied
+A9,2023-07-06,09:00,Air Canada,Occupied
+A10,2023-07-06,09:00,WestJet,Occupied
+A1,2023-07-06,10:00,Porter,Occupied
+A2,2023-07-06,10:00,American,Occupied
+A3,2023-07-06,10:00,United,Occupied
+A4,2023-07-06,10:00,Porter,Occupied
+A5,2023-07-06,10:00,Porter,Occupied
+A6,2023-07-06,10:00,Porter,Vacant
+A7,2023-07-06,10:00,American,Occupied
+A8,2023-07-06,10:00,Porter,Occupied
+A9,2023-07-06,10:00,Porter,Occupied
+A10,2023-07-06,10:00,United,Occupied
+A1,2023-07-06,11:00,Air Canada,Occupied
+A2,2023-07-06,11:00,American,Occupied
+A3,2023-07-06,11:00,WestJet,Vacant
+A4,2023-07-06,11:00,WestJet,Occupied
+A5,2023-07-06,11:00,Delta,Vacant
+A6,2023-07-06,11:00,American,Occupied
+A7,2023-07-06,11:00,Delta,Occupied
+A8,2023-07-06,11:00,Air Canada,Occupied
+A9,2023-07-06,11:00,Porter,Vacant
+A10,2023-07-06,11:00,WestJet,Occupied
+A1,2023-07-06,12:00,American,Occupied
+A2,2023-07-06,12:00,American,Occupied
+A3,2023-07-06,12:00,United,Occupied
+A4,2023-07-06,12:00,Air Canada,Vacant
+A5,2023-07-06,12:00,American,Occupied
+A6,2023-07-06,12:00,American,Occupied
+A7,2023-07-06,12:00,United,Occupied
+A8,2023-07-06,12:00,Porter,Occupied
+A9,2023-07-06,12:00,United,Occupied
+A10,2023-07-06,12:00,Air Canada,Vacant
+A1,2023-07-06,13:00,Porter,Occupied
+A2,2023-07-06,13:00,Air Canada,Occupied
+A3,2023-07-06,13:00,WestJet,Occupied
+A4,2023-07-06,13:00,Delta,Occupied
+A5,2023-07-06,13:00,United,Vacant
+A6,2023-07-06,13:00,Air Canada,Occupied
+A7,2023-07-06,13:00,United,Occupied
+A8,2023-07-06,13:00,Porter,Occupied
+A9,2023-07-06,13:00,Delta,Occupied
+A10,2023-07-06,13:00,Air Canada,Occupied
+A1,2023-07-06,14:00,WestJet,Vacant
+A2,2023-07-06,14:00,Air Canada,Occupied
+A3,2023-07-06,14:00,Delta,Occupied
+A4,2023-07-06,14:00,American,Occupied
+A5,2023-07-06,14:00,American,Occupied
+A6,2023-07-06,14:00,Porter,Vacant
+A7,2023-07-06,14:00,Porter,Vacant
+A8,2023-07-06,14:00,American,Occupied
+A9,2023-07-06,14:00,Porter,Occupied
+A10,2023-07-06,14:00,WestJet,Vacant
+A1,2023-07-06,15:00,WestJet,Vacant
+A2,2023-07-06,15:00,Air Canada,Occupied
+A3,2023-07-06,15:00,Porter,Occupied
+A4,2023-07-06,15:00,Porter,Vacant
+A5,2023-07-06,15:00,WestJet,Occupied
+A6,2023-07-06,15:00,Air Canada,Occupied
+A7,2023-07-06,15:00,WestJet,Occupied
+A8,2023-07-06,15:00,United,Occupied
+A9,2023-07-06,15:00,Delta,Occupied
+A10,2023-07-06,15:00,Delta,Occupied
+A1,2023-07-06,16:00,WestJet,Vacant
+A2,2023-07-06,16:00,American,Occupied
+A3,2023-07-06,16:00,Delta,Vacant
+A4,2023-07-06,16:00,Delta,Occupied
+A5,2023-07-06,16:00,Porter,Occupied
+A6,2023-07-06,16:00,Porter,Occupied
+A7,2023-07-06,16:00,American,Occupied
+A8,2023-07-06,16:00,Air Canada,Vacant
+A9,2023-07-06,16:00,United,Occupied
+A10,2023-07-06,16:00,Delta,Occupied
+A1,2023-07-06,17:00,Delta,Vacant
+A2,2023-07-06,17:00,Delta,Vacant
+A3,2023-07-06,17:00,WestJet,Occupied
+A4,2023-07-06,17:00,Delta,Vacant
+A5,2023-07-06,17:00,American,Vacant
+A6,2023-07-06,17:00,Delta,Vacant
+A7,2023-07-06,17:00,Porter,Vacant
+A8,2023-07-06,17:00,Delta,Occupied
+A9,2023-07-06,17:00,Porter,Occupied
+A10,2023-07-06,17:00,WestJet,Occupied
+A1,2023-07-06,18:00,WestJet,Vacant
+A2,2023-07-06,18:00,American,Occupied
+A3,2023-07-06,18:00,United,Occupied
+A4,2023-07-06,18:00,Porter,Occupied
+A5,2023-07-06,18:00,American,Occupied
+A6,2023-07-06,18:00,Delta,Vacant
+A7,2023-07-06,18:00,WestJet,Occupied
+A8,2023-07-06,18:00,Delta,Occupied
+A9,2023-07-06,18:00,United,Occupied
+A10,2023-07-06,18:00,WestJet,Occupied
+A1,2023-07-06,19:00,Delta,Occupied
+A2,2023-07-06,19:00,Air Canada,Vacant
+A3,2023-07-06,19:00,United,Occupied
+A4,2023-07-06,19:00,Delta,Occupied
+A5,2023-07-06,19:00,Delta,Occupied
+A6,2023-07-06,19:00,Porter,Occupied
+A7,2023-07-06,19:00,Air Canada,Occupied
+A8,2023-07-06,19:00,Air Canada,Occupied
+A9,2023-07-06,19:00,United,Occupied
+A10,2023-07-06,19:00,Air Canada,Occupied
+A1,2023-07-06,20:00,Air Canada,Occupied
+A2,2023-07-06,20:00,United,Vacant
+A3,2023-07-06,20:00,United,Vacant
+A4,2023-07-06,20:00,Porter,Occupied
+A5,2023-07-06,20:00,American,Vacant
+A6,2023-07-06,20:00,Porter,Occupied
+A7,2023-07-06,20:00,Delta,Occupied
+A8,2023-07-06,20:00,Air Canada,Vacant
+A9,2023-07-06,20:00,American,Occupied
+A10,2023-07-06,20:00,Porter,Occupied
+A1,2023-07-06,21:00,Porter,Occupied
+A2,2023-07-06,21:00,WestJet,Occupied
+A3,2023-07-06,21:00,Delta,Occupied
+A4,2023-07-06,21:00,Porter,Vacant
+A5,2023-07-06,21:00,American,Occupied
+A6,2023-07-06,21:00,Porter,Occupied
+A7,2023-07-06,21:00,American,Vacant
+A8,2023-07-06,21:00,United,Occupied
+A9,2023-07-06,21:00,WestJet,Occupied
+A10,2023-07-06,21:00,WestJet,Occupied
+A1,2023-07-06,22:00,Air Canada,Occupied
+A2,2023-07-06,22:00,American,Vacant
+A3,2023-07-06,22:00,Air Canada,Occupied
+A4,2023-07-06,22:00,Air Canada,Occupied
+A5,2023-07-06,22:00,WestJet,Occupied
+A6,2023-07-06,22:00,Air Canada,Occupied
+A7,2023-07-06,22:00,Air Canada,Occupied
+A8,2023-07-06,22:00,American,Occupied
+A9,2023-07-06,22:00,Air Canada,Occupied
+A10,2023-07-06,22:00,United,Occupied
+A1,2023-07-07,05:00,Delta,Occupied
+A2,2023-07-07,05:00,American,Vacant
+A3,2023-07-07,05:00,American,Occupied
+A4,2023-07-07,05:00,Air Canada,Occupied
+A5,2023-07-07,05:00,Porter,Occupied
+A6,2023-07-07,05:00,Porter,Occupied
+A7,2023-07-07,05:00,Porter,Occupied
+A8,2023-07-07,05:00,Delta,Occupied
+A9,2023-07-07,05:00,WestJet,Vacant
+A10,2023-07-07,05:00,American,Occupied
+A1,2023-07-07,06:00,Delta,Occupied
+A2,2023-07-07,06:00,Delta,Occupied
+A3,2023-07-07,06:00,Delta,Occupied
+A4,2023-07-07,06:00,WestJet,Occupied
+A5,2023-07-07,06:00,United,Vacant
+A6,2023-07-07,06:00,Porter,Occupied
+A7,2023-07-07,06:00,WestJet,Occupied
+A8,2023-07-07,06:00,United,Occupied
+A9,2023-07-07,06:00,Delta,Occupied
+A10,2023-07-07,06:00,American,Occupied
+A1,2023-07-07,07:00,Porter,Vacant
+A2,2023-07-07,07:00,WestJet,Occupied
+A3,2023-07-07,07:00,American,Occupied
+A4,2023-07-07,07:00,WestJet,Occupied
+A5,2023-07-07,07:00,WestJet,Vacant
+A6,2023-07-07,07:00,Delta,Vacant
+A7,2023-07-07,07:00,WestJet,Vacant
+A8,2023-07-07,07:00,American,Occupied
+A9,2023-07-07,07:00,American,Vacant
+A10,2023-07-07,07:00,Porter,Vacant
+A1,2023-07-07,08:00,WestJet,Occupied
+A2,2023-07-07,08:00,Delta,Occupied
+A3,2023-07-07,08:00,Air Canada,Occupied
+A4,2023-07-07,08:00,WestJet,Occupied
+A5,2023-07-07,08:00,United,Occupied
+A6,2023-07-07,08:00,Air Canada,Occupied
+A7,2023-07-07,08:00,Delta,Vacant
+A8,2023-07-07,08:00,Air Canada,Occupied
+A9,2023-07-07,08:00,Porter,Occupied
+A10,2023-07-07,08:00,Porter,Occupied
+A1,2023-07-07,09:00,American,Vacant
+A2,2023-07-07,09:00,Porter,Vacant
+A3,2023-07-07,09:00,United,Occupied
+A4,2023-07-07,09:00,American,Vacant
+A5,2023-07-07,09:00,United,Vacant
+A6,2023-07-07,09:00,Air Canada,Occupied
+A7,2023-07-07,09:00,Delta,Occupied
+A8,2023-07-07,09:00,American,Occupied
+A9,2023-07-07,09:00,WestJet,Vacant
+A10,2023-07-07,09:00,Delta,Occupied
+A1,2023-07-07,10:00,Delta,Occupied
+A2,2023-07-07,10:00,WestJet,Vacant
+A3,2023-07-07,10:00,WestJet,Occupied
+A4,2023-07-07,10:00,American,Occupied
+A5,2023-07-07,10:00,Porter,Occupied
+A6,2023-07-07,10:00,WestJet,Occupied
+A7,2023-07-07,10:00,Porter,Vacant
+A8,2023-07-07,10:00,American,Occupied
+A9,2023-07-07,10:00,Delta,Vacant
+A10,2023-07-07,10:00,Porter,Occupied
+A1,2023-07-07,11:00,United,Occupied
+A2,2023-07-07,11:00,Air Canada,Occupied
+A3,2023-07-07,11:00,United,Vacant
+A4,2023-07-07,11:00,Delta,Occupied
+A5,2023-07-07,11:00,United,Occupied
+A6,2023-07-07,11:00,American,Occupied
+A7,2023-07-07,11:00,American,Occupied
+A8,2023-07-07,11:00,WestJet,Vacant
+A9,2023-07-07,11:00,Delta,Occupied
+A10,2023-07-07,11:00,United,Occupied
+A1,2023-07-07,12:00,Delta,Vacant
+A2,2023-07-07,12:00,Air Canada,Vacant
+A3,2023-07-07,12:00,WestJet,Occupied
+A4,2023-07-07,12:00,WestJet,Occupied
+A5,2023-07-07,12:00,WestJet,Vacant
+A6,2023-07-07,12:00,Porter,Occupied
+A7,2023-07-07,12:00,WestJet,Vacant
+A8,2023-07-07,12:00,WestJet,Occupied
+A9,2023-07-07,12:00,United,Occupied
+A10,2023-07-07,12:00,WestJet,Occupied
+A1,2023-07-07,13:00,American,Occupied
+A2,2023-07-07,13:00,Delta,Occupied
+A3,2023-07-07,13:00,Porter,Occupied
+A4,2023-07-07,13:00,Air Canada,Vacant
+A5,2023-07-07,13:00,WestJet,Occupied
+A6,2023-07-07,13:00,Delta,Vacant
+A7,2023-07-07,13:00,Air Canada,Occupied
+A8,2023-07-07,13:00,American,Occupied
+A9,2023-07-07,13:00,Porter,Occupied
+A10,2023-07-07,13:00,WestJet,Occupied
+A1,2023-07-07,14:00,American,Occupied
+A2,2023-07-07,14:00,Delta,Occupied
+A3,2023-07-07,14:00,Delta,Occupied
+A4,2023-07-07,14:00,United,Occupied
+A5,2023-07-07,14:00,American,Occupied
+A6,2023-07-07,14:00,American,Occupied
+A7,2023-07-07,14:00,United,Occupied
+A8,2023-07-07,14:00,American,Occupied
+A9,2023-07-07,14:00,United,Occupied
+A10,2023-07-07,14:00,WestJet,Occupied
+A1,2023-07-07,15:00,Air Canada,Vacant
+A2,2023-07-07,15:00,United,Vacant
+A3,2023-07-07,15:00,Air Canada,Vacant
+A4,2023-07-07,15:00,Air Canada,Occupied
+A5,2023-07-07,15:00,United,Occupied
+A6,2023-07-07,15:00,Delta,Occupied
+A7,2023-07-07,15:00,Porter,Occupied
+A8,2023-07-07,15:00,Porter,Occupied
+A9,2023-07-07,15:00,WestJet,Vacant
+A10,2023-07-07,15:00,Porter,Occupied
+A1,2023-07-07,16:00,American,Vacant
+A2,2023-07-07,16:00,United,Occupied
+A3,2023-07-07,16:00,Delta,Occupied
+A4,2023-07-07,16:00,Delta,Occupied
+A5,2023-07-07,16:00,Delta,Vacant
+A6,2023-07-07,16:00,Delta,Occupied
+A7,2023-07-07,16:00,Air Canada,Occupied
+A8,2023-07-07,16:00,WestJet,Vacant
+A9,2023-07-07,16:00,Air Canada,Occupied
+A10,2023-07-07,16:00,WestJet,Vacant
+A1,2023-07-07,17:00,Porter,Occupied
+A2,2023-07-07,17:00,Porter,Vacant
+A3,2023-07-07,17:00,United,Occupied
+A4,2023-07-07,17:00,American,Occupied
+A5,2023-07-07,17:00,American,Occupied
+A6,2023-07-07,17:00,WestJet,Vacant
+A7,2023-07-07,17:00,Air Canada,Occupied
+A8,2023-07-07,17:00,Delta,Occupied
+A9,2023-07-07,17:00,Porter,Occupied
+A10,2023-07-07,17:00,Air Canada,Occupied
+A1,2023-07-07,18:00,United,Occupied
+A2,2023-07-07,18:00,Air Canada,Occupied
+A3,2023-07-07,18:00,WestJet,Vacant
+A4,2023-07-07,18:00,American,Occupied
+A5,2023-07-07,18:00,WestJet,Vacant
+A6,2023-07-07,18:00,Delta,Occupied
+A7,2023-07-07,18:00,Air Canada,Vacant
+A8,2023-07-07,18:00,Air Canada,Occupied
+A9,2023-07-07,18:00,Porter,Occupied
+A10,2023-07-07,18:00,United,Vacant
+A1,2023-07-07,19:00,Air Canada,Occupied
+A2,2023-07-07,19:00,Delta,Occupied
+A3,2023-07-07,19:00,Porter,Occupied
+A4,2023-07-07,19:00,United,Occupied
+A5,2023-07-07,19:00,Porter,Occupied
+A6,2023-07-07,19:00,American,Occupied
+A7,2023-07-07,19:00,Air Canada,Occupied
+A8,2023-07-07,19:00,Porter,Vacant
+A9,2023-07-07,19:00,WestJet,Vacant
+A10,2023-07-07,19:00,WestJet,Occupied
+A1,2023-07-07,20:00,United,Occupied
+A2,2023-07-07,20:00,Air Canada,Occupied
+A3,2023-07-07,20:00,Air Canada,Vacant
+A4,2023-07-07,20:00,United,Occupied
+A5,2023-07-07,20:00,Air Canada,Vacant
+A6,2023-07-07,20:00,Porter,Occupied
+A7,2023-07-07,20:00,American,Occupied
+A8,2023-07-07,20:00,WestJet,Occupied
+A9,2023-07-07,20:00,Air Canada,Vacant
+A10,2023-07-07,20:00,American,Occupied
+A1,2023-07-07,21:00,United,Vacant
+A2,2023-07-07,21:00,Porter,Occupied
+A3,2023-07-07,21:00,United,Occupied
+A4,2023-07-07,21:00,WestJet,Vacant
+A5,2023-07-07,21:00,Porter,Occupied
+A6,2023-07-07,21:00,Porter,Vacant
+A7,2023-07-07,21:00,Porter,Occupied
+A8,2023-07-07,21:00,United,Vacant
+A9,2023-07-07,21:00,American,Vacant
+A10,2023-07-07,21:00,American,Occupied
+A1,2023-07-07,22:00,Porter,Occupied
+A2,2023-07-07,22:00,WestJet,Occupied
+A3,2023-07-07,22:00,Porter,Vacant
+A4,2023-07-07,22:00,American,Vacant
+A5,2023-07-07,22:00,United,Occupied
+A6,2023-07-07,22:00,Porter,Occupied
+A7,2023-07-07,22:00,WestJet,Vacant
+A8,2023-07-07,22:00,Air Canada,Occupied
+A9,2023-07-07,22:00,Delta,Occupied
+A10,2023-07-07,22:00,Air Canada,Occupied
